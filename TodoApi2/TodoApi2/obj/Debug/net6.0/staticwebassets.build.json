@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "qNKA9M460Kxg9sQHA/m0JttSXo3UpmDjoCPALyT+QTk=",
+  "Source": "TodoApi2",
+  "BasePath": "_content/TodoApi2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi2\\wwwroot",
+      "Source": "TodoApi2",
+      "ContentRoot": "D:\\TodoApi2\\TodoApi2\\wwwroot\\",
+      "BasePath": "_content/TodoApi2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\TodoApi2\\TodoApi2\\wwwroot\\css\\site.css",
+      "SourceId": "TodoApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TodoApi2\\TodoApi2\\wwwroot\\",
+      "BasePath": "_content/TodoApi2",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\TodoApi2\\TodoApi2\\wwwroot\\index.html",
+      "SourceId": "TodoApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TodoApi2\\TodoApi2\\wwwroot\\",
+      "BasePath": "_content/TodoApi2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\TodoApi2\\TodoApi2\\wwwroot\\js\\site.js",
+      "SourceId": "TodoApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\TodoApi2\\TodoApi2\\wwwroot\\",
+      "BasePath": "_content/TodoApi2",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
